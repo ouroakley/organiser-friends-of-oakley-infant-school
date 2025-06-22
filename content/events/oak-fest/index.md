@@ -8,6 +8,8 @@ organisers:
   - friends-ois
   - ojsa
 ---
+![Oak-fest event poster with balloons and sweet treats. Full event details on this page.](oak-fest-poster.jpg "Oak-fest 5th July")
+
 🎉 OakFest – A Big Day of Fun for Children! 🎈
 
 Get ready for a magical day packed with fun, laughter, and adventure at Little Fest, the ultimate children’s festival for families aged 0–100!
