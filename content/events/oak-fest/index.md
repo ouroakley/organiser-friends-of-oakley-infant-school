@@ -16,6 +16,6 @@ Get ready for a magical day packed with fun, laughter, and adventure at Little F
 
 🌟 Whether your child loves crafts, games, music, dancing, or discovering new things, there’s something for everyone at this celebration. There will be non-stop entertainment, hands-on activities, and unforgettable moments.
 
-🎟️ Tickets: (Under 2s go free). No tickets will available on the gate  - prebooking ONLY.
+🎟️ Tickets: (Under 2s go free). No tickets will available on the gate  - prebooking ONLY. [Buy now](https://www.pta-events.co.uk/oakleyschools/index.cfm?event=event&eventId=98976)
 
 Don't miss out on this unforgettable day of fun! Spaces are limited, so grab your tickets now and join us for a festival where kids can be kids - and parents can enjoy the magic, too. 💫
