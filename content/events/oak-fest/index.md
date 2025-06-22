@@ -1,12 +1,15 @@
 ---
-title: OAK-FEST
-eventStart: 2025-07-05T12:30:00+01:00
-eventEnd: 2025-07-05T16:30:00+01:00
+title: OakFest
+eventDates:
+  - start: 2025-07-05T12:30:00+01:00
+    end: 2025-07-05T16:30:00+01:00
 venues:
   - oakley-ce-junior-school
 organisers:
   - friends-ois
   - ojsa
+aliases:
+  - OAK-FEST
 ---
 ![Oak-fest event poster with balloons and sweet treats. Full event details on this page.](oak-fest-poster.jpg "Oak-fest 5th July")
 
