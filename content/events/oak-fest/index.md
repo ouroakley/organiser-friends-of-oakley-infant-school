@@ -1,5 +1,7 @@
 ---
 title: OakFest
+date: 2025-07-05
+poster: oak-fest-poster.jpg
 eventDates:
   - start: 2025-07-05T12:30:00+01:00
     end: 2025-07-05T16:30:00+01:00
@@ -10,10 +12,7 @@ organisers:
   - ojsa
 aliases:
   - /events/2025/07/OAK-FEST
-date: 2025-07-05
 ---
-![Oak-fest event poster with balloons and sweet treats. Full event details on this page.](oak-fest-poster.jpg "Oak-fest 5th July")
-
 🎉 OakFest – A Big Day of Fun for Children! 🎈
 
 Get ready for a magical day packed with fun, laughter, and adventure at Little Fest, the ultimate children’s festival for families aged 0–100!
