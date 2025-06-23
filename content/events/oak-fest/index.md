@@ -10,6 +10,7 @@ organisers:
   - ojsa
 aliases:
   - OAK-FEST
+date: 2025-07-05
 ---
 ![Oak-fest event poster with balloons and sweet treats. Full event details on this page.](oak-fest-poster.jpg "Oak-fest 5th July")
 
