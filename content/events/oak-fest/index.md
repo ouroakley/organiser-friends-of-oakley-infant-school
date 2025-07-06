@@ -12,6 +12,7 @@ organisers:
   - ojsa
 aliases:
   - /events/2025/07/OAK-FEST
+  - /events/2025/07/OakFest
 ---
 🎉 OakFest – A Big Day of Fun for Children! 🎈
 
